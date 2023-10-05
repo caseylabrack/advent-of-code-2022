@@ -6,6 +6,8 @@ luac.out
 *.zip
 *.tar.gz
 
+target\*
+
 # Object files
 *.o
 *.os
@@ -40,3 +42,4 @@ luac.out
 *.hex
 
 .DS_Store
+**/target/*
